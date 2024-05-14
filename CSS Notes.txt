@@ -1,0 +1,13 @@
+			---CSS(Cascade Styling Sheet)---
+
+ID- id is used to style single element. Id starts with "#"
+Class- class is used to style group of elements. Class starts with "."
+*Class and Id are the types of selectors.
+
+types of CSS:-
+1. inline CSS
+2. internal or Embedded CSS
+3. External CSS
+
+
+* Flex box--pending**
